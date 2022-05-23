@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
-
 ## Assigments Cousera-Html-CSS-Javascript
 
 
