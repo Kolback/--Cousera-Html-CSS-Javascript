@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+.heading-title {
+    color: black;
+}
+
+
+section {
+    border:	1px solid black;
+    background-color: rgb(255, 171, 81);
+	height: 1000px;
+	color: black;
+}
+
+#chicken {
+    border: 1px solid black;
+	text-align: center;
+	font-weight: bold;
+	font-size: 125%;
+
+	background-color: hsl(1, 42%, 72%);
+}
+
+
+#nav-text a {
+    text-align: center;
+}
