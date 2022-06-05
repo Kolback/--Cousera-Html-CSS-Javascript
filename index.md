@@ -6,3 +6,6 @@
 
 
 [Module 3 Coding Assignment](https://kolback.github.io/--Cousera-Html-CSS-Javascript/Mod3_solution)
+
+
+[Module 4 Coding Assignment](https://kolback.github.io/--Cousera-Html-CSS-Javascript/Mod4_solution)
